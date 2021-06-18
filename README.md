@@ -1,14 +1,14 @@
 # Intro_Comp_A2_
 Trabalho final da disciplina Introdução à Ciência de Dados ministrada pelo professor Flávio.
 
-- Integrantes
-Alice Pereira de Aguilar Penido
-Breno Marques Azevedo
-Cleomar Felipe Rabelo Antoszczyszyn 
-Gustavo Ramalho
-João Victor Mendes
+- Integrantes:
+	Alice Pereira de Aguilar Penido
+	Breno Marques Azevedo
+	Cleomar Felipe Rabelo Antoszczyszyn 
+	Gustavo Ramalho
+	João Victor Mendes
 
-- Controles 
+- Controles:
 No nosso jogo é possível se movimentar para qualquer direção na tela, por meio das teclas WASD:
 	W: Se mover para cima
 	A: Se mover para a esquerda
@@ -24,12 +24,12 @@ No nosso jogo é possível se movimentar para qualquer direção na tela, por me
 	Não é possível sair dos limites da tela do jogo.
 	Você deve manter os botões pressionados para se movimentar.
 
-- Como jogar
+- Como jogar:
 Basta desviar dos disparos e destruir as naves inimigas que virão na sua direção. 
 Colidir com os disparos ou com as naves fará com que você leve dano.
 Deixar que as naves chegem ao final da tela reduzirá o seu número de vidas.
 	
-- Inicialização do jogo
+- Inicialização do jogo:
 Após compilar o programa você verá uma nova janela aberta. Nela está o nosso jogo com o menu principal. 
 Para começar a jogar, basta clicar com mouse - botão direito ou esquerdo. Assim, o jogo começará e você
 já poderá se divertir.
